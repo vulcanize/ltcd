@@ -1,7 +1,7 @@
 ltcd
 ====
 
-[![Build Status](https://travis-ci.org/ltcsuite/ltcd.png?branch=master)](https://travis-ci.org/ltcsuite/ltcd)
+[![Build Status](https://travis-ci.org/vulcanize/ltcd.png?branch=master)](https://travis-ci.org/vulcanize/ltcd)
 
 ltcd is an alternative full node bitcoin implementation written in Go (golang).
 
@@ -39,7 +39,7 @@ which are both under active development.
 
 #### Windows - MSI Available
 
-https://github.com/ltcsuite/ltcd/releases
+https://github.com/vulcanize/ltcd/releases
 
 #### Linux/BSD/MacOSX/POSIX - Build from Source
 
@@ -62,8 +62,8 @@ recommended that `GOPATH` is set to a directory in your home directory such as
 
 ```bash
 $ go get -u github.com/Masterminds/glide
-$ git clone https://github.com/ltcsuite/ltcd $GOPATH/src/github.com/ltcsuite/ltcd
-$ cd $GOPATH/src/github.com/ltcsuite/ltcd
+$ git clone https://github.com/vulcanize/ltcd $GOPATH/src/github.com/vulcanize/ltcd
+$ cd $GOPATH/src/github.com/vulcanize/ltcd
 $ glide install
 $ go install . ./cmd/...
 ```
@@ -83,7 +83,7 @@ Install a newer MSI
 - Run the following commands to update ltcd, all dependencies, and install it:
 
 ```bash
-$ cd $GOPATH/src/github.com/ltcsuite/ltcd
+$ cd $GOPATH/src/github.com/vulcanize/ltcd
 $ git pull && glide install
 $ go install . ./cmd/...
 ```
@@ -119,12 +119,12 @@ To subscribe to a given list, send email to list+subscribe@opensource.conformal.
 
 ## Issue Tracker
 
-The [integrated github issue tracker](https://github.com/ltcsuite/ltcd/issues)
+The [integrated github issue tracker](https://github.com/vulcanize/ltcd/issues)
 is used for this project.
 
 ## Documentation
 
-The documentation is a work-in-progress.  It is located in the [docs](https://github.com/ltcsuite/ltcd/tree/master/docs) folder.
+The documentation is a work-in-progress.  It is located in the [docs](https://github.com/vulcanize/ltcd/tree/master/docs) folder.
 
 ## GPG Verification Key
 

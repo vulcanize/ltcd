@@ -13,9 +13,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ltcsuite/ltcd/btcjson"
-	"github.com/ltcsuite/ltcd/chaincfg/chainhash"
-	"github.com/ltcsuite/ltcd/wire"
+	"github.com/vulcanize/ltcd/btcjson"
+	"github.com/vulcanize/ltcd/chaincfg/chainhash"
+	"github.com/vulcanize/ltcd/wire"
 	"github.com/ltcsuite/ltcutil"
 )
 

@@ -15,9 +15,9 @@ import (
 	"runtime/debug"
 	"runtime/pprof"
 
-	"github.com/ltcsuite/ltcd/blockchain/indexers"
-	"github.com/ltcsuite/ltcd/database"
-	"github.com/ltcsuite/ltcd/limits"
+	"github.com/vulcanize/ltcd/blockchain/indexers"
+	"github.com/vulcanize/ltcd/database"
+	"github.com/vulcanize/ltcd/limits"
 )
 
 var (

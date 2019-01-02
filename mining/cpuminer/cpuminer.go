@@ -12,11 +12,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ltcsuite/ltcd/blockchain"
-	"github.com/ltcsuite/ltcd/chaincfg"
-	"github.com/ltcsuite/ltcd/chaincfg/chainhash"
-	"github.com/ltcsuite/ltcd/mining"
-	"github.com/ltcsuite/ltcd/wire"
+	"github.com/vulcanize/ltcd/blockchain"
+	"github.com/vulcanize/ltcd/chaincfg"
+	"github.com/vulcanize/ltcd/chaincfg/chainhash"
+	"github.com/vulcanize/ltcd/mining"
+	"github.com/vulcanize/ltcd/wire"
 	"github.com/ltcsuite/ltcutil"
 )
 

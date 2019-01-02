@@ -10,10 +10,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ltcsuite/ltcd/chaincfg"
-	"github.com/ltcsuite/ltcd/database"
-	_ "github.com/ltcsuite/ltcd/database/ffldb"
-	"github.com/ltcsuite/ltcd/wire"
+	"github.com/vulcanize/ltcd/chaincfg"
+	"github.com/vulcanize/ltcd/database"
+	_ "github.com/vulcanize/ltcd/database/ffldb"
+	"github.com/vulcanize/ltcd/wire"
 	"github.com/ltcsuite/ltcutil"
 )
 

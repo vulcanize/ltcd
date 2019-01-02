@@ -9,7 +9,7 @@ Overview
 
 This client provides a robust and easy to use client for interfacing with a
 Bitcoin RPC server that uses a ltcd/bitcoin core compatible Bitcoin JSON-RPC
-API.  This client has been tested with ltcd (https://github.com/ltcsuite/ltcd),
+API.  This client has been tested with ltcd (https://github.com/vulcanize/ltcd),
 btcwallet (https://github.com/btcsuite/btcwallet), and
 bitcoin core (https://github.com/bitcoin).
 

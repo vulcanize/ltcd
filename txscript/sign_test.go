@@ -9,10 +9,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ltcsuite/ltcd/btcec"
-	"github.com/ltcsuite/ltcd/chaincfg"
-	"github.com/ltcsuite/ltcd/chaincfg/chainhash"
-	"github.com/ltcsuite/ltcd/wire"
+	"github.com/vulcanize/ltcd/btcec"
+	"github.com/vulcanize/ltcd/chaincfg"
+	"github.com/vulcanize/ltcd/chaincfg/chainhash"
+	"github.com/vulcanize/ltcd/wire"
 	"github.com/ltcsuite/ltcutil"
 )
 

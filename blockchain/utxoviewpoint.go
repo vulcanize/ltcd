@@ -7,9 +7,9 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/ltcsuite/ltcd/chaincfg/chainhash"
-	"github.com/ltcsuite/ltcd/database"
-	"github.com/ltcsuite/ltcd/txscript"
+	"github.com/vulcanize/ltcd/chaincfg/chainhash"
+	"github.com/vulcanize/ltcd/database"
+	"github.com/vulcanize/ltcd/txscript"
 	"github.com/ltcsuite/ltcutil"
 )
 

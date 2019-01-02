@@ -1,9 +1,9 @@
 wire
 ====
 
-[![Build Status](http://img.shields.io/travis/ltcsuite/ltcd.svg)](https://travis-ci.org/ltcsuite/ltcd) [![ISC License]
+[![Build Status](http://img.shields.io/travis/vulcanize/ltcd.svg)](https://travis-ci.org/vulcanize/ltcd) [![ISC License]
 (http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/ltcsuite/ltcd/wire)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/vulcanize/ltcd/wire)
 
 Package wire implements the bitcoin wire protocol.  A comprehensive suite of
 tests with 100% test coverage is provided to ensure proper functionality.
@@ -18,7 +18,7 @@ protocol level.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/ltcsuite/ltcd/wire
+$ go get -u github.com/vulcanize/ltcd/wire
 ```
 
 ## Bitcoin Message Overview

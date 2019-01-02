@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ltcsuite/ltcd/chaincfg"
-	"github.com/ltcsuite/ltcd/database"
+	"github.com/vulcanize/ltcd/chaincfg"
+	"github.com/vulcanize/ltcd/database"
 	"github.com/ltcsuite/ltcutil"
 )
 

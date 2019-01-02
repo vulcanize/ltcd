@@ -8,7 +8,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/ltcsuite/ltcd/chaincfg/chainhash"
+	"github.com/vulcanize/ltcd/chaincfg/chainhash"
 )
 
 var (

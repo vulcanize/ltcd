@@ -9,7 +9,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/ltcsuite/ltcd/btcjson"
+	"github.com/vulcanize/ltcd/btcjson"
 )
 
 // TestUsageFlagStringer tests the stringized output for the UsageFlag type.

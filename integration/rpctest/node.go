@@ -14,7 +14,7 @@ import (
 	"runtime"
 	"time"
 
-	rpc "github.com/ltcsuite/ltcd/rpcclient"
+	rpc "github.com/vulcanize/ltcd/rpcclient"
 	"github.com/ltcsuite/ltcutil"
 )
 

@@ -1,11 +1,11 @@
 chaincfg
 ========
 
-[![Build Status](http://img.shields.io/travis/ltcsuite/ltcd.svg)]
-(https://travis-ci.org/ltcsuite/ltcd) [![ISC License]
+[![Build Status](http://img.shields.io/travis/vulcanize/ltcd.svg)]
+(https://travis-ci.org/vulcanize/ltcd) [![ISC License]
 (http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)]
-(http://godoc.org/github.com/ltcsuite/ltcd/chaincfg)
+(http://godoc.org/github.com/vulcanize/ltcd/chaincfg)
 
 Package chaincfg defines chain configuration parameters for the three standard
 Bitcoin networks and provides the ability for callers to define their own custom
@@ -27,7 +27,7 @@ import (
 	"log"
 
 	"github.com/ltcsuite/ltcutil"
-	"github.com/ltcsuite/ltcd/chaincfg"
+	"github.com/vulcanize/ltcd/chaincfg"
 )
 
 var testnet = flag.Bool("testnet", false, "operate on the testnet Bitcoin network")
@@ -58,7 +58,7 @@ func main() {
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/ltcsuite/ltcd/chaincfg
+$ go get -u github.com/vulcanize/ltcd/chaincfg
 ```
 
 ## GPG Verification Key

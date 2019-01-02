@@ -7,7 +7,7 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/ltcsuite/ltcd/txscript"
+	"github.com/vulcanize/ltcd/txscript"
 	"github.com/ltcsuite/ltcutil"
 )
 

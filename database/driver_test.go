@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ltcsuite/ltcd/database"
-	_ "github.com/ltcsuite/ltcd/database/ffldb"
+	"github.com/vulcanize/ltcd/database"
+	_ "github.com/vulcanize/ltcd/database/ffldb"
 )
 
 var (

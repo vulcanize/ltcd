@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ltcsuite/ltcd/wire"
+	"github.com/vulcanize/ltcd/wire"
 	"github.com/davecgh/go-spew/spew"
 )
 

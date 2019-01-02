@@ -7,7 +7,7 @@ package main
 import (
 	"log"
 
-	"github.com/ltcsuite/ltcd/rpcclient"
+	"github.com/vulcanize/ltcd/rpcclient"
 )
 
 func main() {
